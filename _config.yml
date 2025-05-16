@@ -93,7 +93,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/new_img.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -282,7 +282,7 @@ hydejack:
     cache_version:     13
     precache_assets:
       #- /assets/img/swipe.svg
-      - /assests/img/new_img.jpg
+      - /assets/img/new_img.jpg
 
 # Collections
 # ----------------------------------------------------------------------------------------
